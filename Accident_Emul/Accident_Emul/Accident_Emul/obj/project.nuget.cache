@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tHCVuY+hwkTFcLi07sL70o69sKbztv5w+2/SJmvFZMhmGve/GHM/Ji6yrVaaw53SbxjZVGAjuDRTylZhbtu15g==",
+  "success": true,
+  "projectFilePath": "D:\\jhin\\Accident_Emul\\Accident_Emul\\Accident_Emul\\Accident_Emul.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ggznz\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ggznz\\.nuget\\packages\\supersimpletcp\\2.6.1.4\\supersimpletcp.2.6.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
